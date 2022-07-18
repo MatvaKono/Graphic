@@ -1,0 +1,25 @@
+.js-counter{
+	border: 1px black solid;
+	background-color: aqua;
+	width: 30px;
+	font-size: 50px;
+}
+
+.input{
+	motgin-top: 30px;
+}
+
+.gerf{
+	border: 1px solid black;
+	text-decoration: none;
+	color: black;
+	background-color: #bbb; 
+}
+
+body{
+	background-image: url(images\a4.jpg);
+}
+
+.hp{
+	color: red;
+}
